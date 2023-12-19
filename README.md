@@ -1,7 +1,14 @@
 # LearnWave
 ## Graduate Student | Software Engineer
 
-![Profile Picture](banner.jpg)
+<div style="position: relative; text-align: center; color: white;">
+  <img src="sky_moon" alt="Background Image" style="opacity: 0.5;"/>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    LearnWave
+  </div>
+</div>
+<!--
+![Profile Picture](banner.jpg)-->
 
 ### About Me
 Develop to solve 👋
