@@ -1,6 +1,39 @@
-### Hi there 👋
+# Lakshmanan Meiyappan
+## Graduate Student | Software Engineer
+
+![Profile Picture](url-to-profile-picture.jpg)
+
+### About Me
+Hey! 👋
+
+- **Currently**: MS CS Student at University of Illinois at Chicago.
+- **Previously**: Full Stack Software Engineer at Zoho Corporation.
+
+### What I'm Currently Working On
+- System Design and Distributed Computing
+- Software Engineering
+
+### Connect with Me
+[![Visitors](badge-for-visitors)](link-to-profile) [![Follow](badge-for-follow)](link-to-follow)
+
+### Check out my GitHub repository:
+- [PyCalendly](link-to-PyCalendly-repo) - Python package for Calendly API v2
+- [CloudOrg-Simulator](link-to-CloudOrg-Simulator-repo) - CloudOrg Simulator is a Cloud Simulation and analysis Project.
+
+### Stats
+Total Contributions: 2,595 | Jun 9, 2015 - Present
+
+### GitHub Stats:
+- Current Streak: 0 (Dec 19)
+- Longest Streak: 16 (Jul 14, 2022 - Jul 29, 2022)
+
+### Programming Activity (Last 7 Days):
+- WakaTime Stats (last 7 days): No coding activity this week
+
+
 
 <!--
+### Hi there 👋
 **acensia/acensia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
