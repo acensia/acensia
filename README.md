@@ -4,9 +4,9 @@
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 100;">
     LearnWave
   </div>
-</div> -->
+</div>
 ![Profile Picture](sky_moon.jpg)
-# LearnWave
+-->
 
 ### About Me
 Develop to solve 👋
