@@ -14,12 +14,21 @@ Develop to solve 👋
 - **Graduate**: Electrical and Computer Engineering at Seoul National University
 - **Completed** : Microsoft AI School 2nd period
 
-### What I'm Currently Working On
+### Currently on
 - Software Engineering
 - Machine Learning
 - Frontend Developing
 
-### Check out my GitHub repository:
+### Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### GitHub repos
 <div>
   <p>
     <a href="https://github.com/acensia/FasWeb">
@@ -28,7 +37,7 @@ Develop to solve 👋
   </p>
 </div>
 
-### Stats :
+### Stats
 <div>  
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
@@ -39,7 +48,8 @@ Develop to solve 👋
     -->
   </p>
 </div>
-### Programming Activity (Last 7 Days):
+
+### Programming Activity (Last 7 Days)
 - Vite Web Programming
 - Text Emotion Learning
 
