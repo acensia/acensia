@@ -4,8 +4,6 @@
 ![Profile Picture](banner.jpg)
 
 ### About Me
-![Visitor Count](https://img.shields.io/badge/visitors-22421-blue)
-
 Hi, ! 👋
 
 - **Graduate**: Electrical and Computer Engineering at Seoul National University
@@ -14,9 +12,6 @@ Hi, ! 👋
 - Software Engineering
 - Machine Learning
 - Frontend Developing
-
-### Connect with Me
-[![Visitors](badge-for-visitors)](link-to-profile) [![Follow](badge-for-follow)](link-to-follow)
 
 ### Check out my GitHub repository:
 <div>
@@ -35,8 +30,9 @@ Total Contributions: 2,595 | Jun 9, 2015 - Present
 - Longest Streak: 16 (Jul 14, 2022 - Jul 29, 2022)
 
 ### Programming Activity (Last 7 Days):
-- WakaTime Stats (last 7 days): No coding activity this week
+- Vite Web Programming
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=acensia.acensia)](https://github.com/acensia) [![GitHub followers](https://img.shields.io/github/followers/acensia.svg?style=social&label=Follow)](https://github.com/acensia?tab=followers)
 
 
 <!--
