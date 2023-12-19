@@ -4,7 +4,7 @@
 ![Profile Picture](banner.jpg)
 
 ### About Me
-Hi, ! 👋
+Develop to solve 👋
 
 - **Graduate**: Electrical and Computer Engineering at Seoul National University
 
@@ -23,14 +23,12 @@ Hi, ! 👋
 </div>
 
 ### Stats
-Total Contributions: 2,595 | Jun 9, 2015 - Present
 
 ### GitHub Stats:
-- Current Streak: 0 (Dec 19)
-- Longest Streak: 16 (Jul 14, 2022 - Jul 29, 2022)
 
 ### Programming Activity (Last 7 Days):
 - Vite Web Programming
+- Text Emotion Learning
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=acensia.acensia)](https://github.com/acensia) [![GitHub followers](https://img.shields.io/github/followers/acensia.svg?style=social&label=Follow)](https://github.com/acensia?tab=followers)
 
