@@ -2,11 +2,13 @@
 ## Graduate Student | Software Engineer
 
 <div style="position: relative; text-align: center; color: white;">
-  <img src="sky_moon.jpeg" alt="Background Image" style="opacity: 0.5;"/>
+  <img src="sky_moon.jpeg" alt="Background Image" style="opacity: 0.6; width: 100%"/>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     LearnWave
   </div>
 </div>
+
+
 <!--
 ![Profile Picture](banner.jpg)-->
 
