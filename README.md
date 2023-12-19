@@ -1,6 +1,3 @@
-# LearnWave
-## Graduate Student | Software Engineer
-
 <!--
 <div style="position: relative; text-align: center; color: black; font-weight: bold;">
   <img src="sky_moon.jpg" alt="Background Image" style="opacity: 0.6; width: 100%; position: relative;"/>
@@ -8,15 +5,14 @@
     LearnWave
   </div>
 </div> -->
-
-
-
 ![Profile Picture](sky_moon.jpg)
+# LearnWave
 
 ### About Me
 Develop to solve 👋
 
 - **Graduate**: Electrical and Computer Engineering at Seoul National University
+- **Completed** : Microsoft AI School 2nd period
 
 ### What I'm Currently Working On
 - Software Engineering
@@ -43,7 +39,7 @@ Develop to solve 👋
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=acensia" alt="GitHub Stats" /> <br/><br/>
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=acensia" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=acensia" alt="WakaTime" />
   </p>
 </div>
 ### Programming Activity (Last 7 Days):
