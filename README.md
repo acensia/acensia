@@ -1,17 +1,17 @@
-# Lakshmanan Meiyappan
+# LearnWave
 ## Graduate Student | Software Engineer
 
-![Profile Picture](url-to-profile-picture.jpg)
+![Profile Picture](banner.jpg)
 
 ### About Me
-Hey! 👋
+Hi, ! 👋
 
-- **Currently**: MS CS Student at University of Illinois at Chicago.
-- **Previously**: Full Stack Software Engineer at Zoho Corporation.
+- **Graduate**: Electrical and Computer Engineering at Seoul National University
 
 ### What I'm Currently Working On
-- System Design and Distributed Computing
 - Software Engineering
+- Machine Learning
+- Frontend Developing
 
 ### Connect with Me
 [![Visitors](badge-for-visitors)](link-to-profile) [![Follow](badge-for-follow)](link-to-follow)
