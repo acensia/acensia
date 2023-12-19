@@ -4,6 +4,8 @@
 ![Profile Picture](banner.jpg)
 
 ### About Me
+![Visitor Count](https://img.shields.io/badge/visitors-22421-blue)
+
 Hi, ! 👋
 
 - **Graduate**: Electrical and Computer Engineering at Seoul National University
@@ -17,8 +19,13 @@ Hi, ! 👋
 [![Visitors](badge-for-visitors)](link-to-profile) [![Follow](badge-for-follow)](link-to-follow)
 
 ### Check out my GitHub repository:
-- [PyCalendly](link-to-PyCalendly-repo) - Python package for Calendly API v2
-- [CloudOrg-Simulator](link-to-CloudOrg-Simulator-repo) - CloudOrg Simulator is a Cloud Simulation and analysis Project.
+<div>
+  <p>
+    <a href="https://github.com/acensia/FasWeb">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=acensia&repo=FasWeb" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 ### Stats
 Total Contributions: 2,595 | Jun 9, 2015 - Present
