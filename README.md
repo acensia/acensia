@@ -50,9 +50,12 @@ Develop to solve 👋
   </p>
 </div>
 
-### Programming Activity (Last 7 Days)
-- Vite Web Programming
-- Text Emotion Learning
+
+### Contact me
+
+<span style="color: blue; font-weight: bold; font-family: 'Courier New', monospace;">📮 acensia@snu.ac.kr</span>
+
+
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=acensia.acensia)](https://github.com/acensia) [![GitHub followers](https://img.shields.io/github/followers/acensia.svg?style=social&label=Follow)](https://github.com/acensia?tab=followers)
 
