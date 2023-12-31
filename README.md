@@ -30,6 +30,7 @@ Develop to solve 👋
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ### GitHub repos
+<div style="display:flex">
 <div>
   <p>
     <a href="https://github.com/acensia/FasWeb">
@@ -45,6 +46,7 @@ Develop to solve 👋
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=acensia&repo=client_server_Omok" alt="GitHub Stats" />
     </a>
   </p>
+</div>
 </div>
 
 ### Stats
