@@ -42,8 +42,8 @@ Develop to solve 👋
 
 <div>
   <p>
-    <a href="https://github.com/acensia/client_server_Omok">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=acensia&repo=client_server_Omok" alt="GitHub Stats" />
+    <a href="https://github.com/acensia/polyjuice">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=acensia&repo=polyjuice" alt="GitHub Stats" />
     </a>
   </p>
 </div>
