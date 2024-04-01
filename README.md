@@ -18,6 +18,7 @@ Develop to solve 👋
 - Software Engineering
 - Machine Learning
 - Frontend Developing
+- Prompt Engineering
 
 ### What I can deal with
 
