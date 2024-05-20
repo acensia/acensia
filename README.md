@@ -9,10 +9,11 @@
 -->
 
 ### About Me
-Develop to solve 👋
+Develop to solve problems👋
 
 - **Graduate**: Electrical and Computer Engineering at Seoul National University
 - **Completed** : Microsoft AI School 2nd period
+- **Cowork** : Kryx. (IP analyze and care Platform)
 
 ### Currently on
 - Software Engineering
