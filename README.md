@@ -13,16 +13,18 @@ Develop to solve problems👋
 
 - **Graduate**: Electrical and Computer Engineering at Seoul National University
 - **Completed** : Microsoft AI School 2nd period
-- **Cowork** : Kryx. (IP analyze and care Platform)
 
 ### Currently on
+- **Working** : Kryx. (IP analyze and care Platform)
+
+### What I can deal with
+
 - Software Engineering
 - Machine Learning
 - Frontend Developing
 - Prompt Engineering
 
-### What I can deal with
-
+  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
