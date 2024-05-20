@@ -15,7 +15,7 @@ Develop to solve problems👋
 - **Completed** : Microsoft AI School 2nd period
 
 ### Currently on
-- **Working** : Kryx. (IP analyze and care Platform)
+- **Working** : Kryx. (IP analyzing and care Platform)
 
 ### What I can deal with
 
