@@ -9,7 +9,7 @@
 -->
 
 ### About Me
-Develop to solve problems👋
+Develop for creativity👋
 
 - **Graduate**: Electrical and Computer Engineering at Seoul National University
 - **Completed** : Microsoft AI School 2nd period
