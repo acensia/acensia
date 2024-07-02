@@ -19,7 +19,7 @@ Develop for creativity👋
 
 ### What I'm interested in
 
-- Large Language Model
+- Language Model
 - Prompt Engineering
 - Information Retrieving
 - Software Engineering
