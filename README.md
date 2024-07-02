@@ -17,15 +17,14 @@ Develop for creativity👋
 ### Currently on
 - **Working** : Kryx. (IP analyzing and care Platform Developer)
 
-### What I can deal with
+### What I'm interested in
 
-- Software Engineering
-- Machine Learning
-- Frontend Developing
+- Large Language Model
 - Prompt Engineering
+- Information Retrieving
+- Software Engineering
 
-  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
