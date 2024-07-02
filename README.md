@@ -15,7 +15,7 @@ Develop for creativity👋
 - **Completed** : Microsoft AI School 2nd period
 
 ### Currently on
-- **Working** : Kryx. (IP analyzing and care Platform)
+- **Working** : Kryx. (IP analyzing and care Platform Developer)
 
 ### What I can deal with
 
@@ -76,7 +76,7 @@ Develop for creativity👋
 
 ### Contact me
 
-<span style="color: blue; font-weight: bold; font-family: 'Courier New', monospace;">📮 acensia@snu.ac.kr</span>
+<span style="color: blue; font-weight: bold; font-family: 'Courier New', monospace;">📮 acensia4290@gmail.com</span>
 
 
 
