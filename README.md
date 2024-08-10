@@ -10,6 +10,7 @@
 
 ### About Me
 Develop for creativity👋  
+Pursue self-judging AI  
 
 **What I'm interested in**
 - Language Model
@@ -19,7 +20,7 @@ Develop for creativity👋
 
 ### Currently
 
-- **Maum.ai (Full-Stack Developer)**
+- **Maum.ai (Full-Stack Developer)**  
   *2024.07 ~ Currently*
 - **Kryx. (AI engineer)**  
   *2024.04 ~ 2024.07*
