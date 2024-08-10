@@ -11,11 +11,18 @@
 ### About Me
 Develop for creativity👋
 
-- **Graduate**: Electrical and Computer Engineering at Seoul National University
-- **Completed** : Microsoft AI School 2nd period
+- **Graduated**
+  Electrical and Computer Engineering at Seoul National University
+  *2017.03 ~ 2022.02*
+- **Completed**
+  Microsoft AI School 2nd period
+  *2023.04 ~ 2023.11*
+- **Worked**
+  Kryx. (AI engineer)
+  *2024.04 ~ 2024.07*
 
 ### Currently on
-- **Working** : Kryx. (IP analyzing and care Platform Developer)
+- **Working** : Maum.ai
 
 ### What I'm interested in
 
