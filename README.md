@@ -9,24 +9,25 @@
 -->
 
 ### About Me
-Develop for creativity👋
+Develop for creativity👋  
 
-- **Electrical and Computer Engineering at Seoul National University**  
-  *2017.03 ~ 2022.02*
-- **Microsoft AI School 2nd period**  
-  *2023.04 ~ 2023.11*
-- **Kryx. (AI engineer)**  
-  *2024.04 ~ 2024.07*
-
-### Currently
-- Maum.ai (Full-Stack Developer)
-
-### What I'm interested in
-
+**What I'm interested in**
 - Language Model
 - Prompt Engineering
 - Information Retrieving
 - Software Engineering
+
+### Currently
+
+- **Maum.ai (Full-Stack Developer)**
+  *2024.07 ~ Currently*
+- **Kryx. (AI engineer)**  
+  *2024.04 ~ 2024.07*
+- **Microsoft AI School 2nd period**  
+  *2023.04 ~ 2023.11*
+- **Electrical and Computer Engineering at Seoul National University**  
+  *2017.03 ~ 2022.02*
+
 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -35,7 +36,6 @@ Develop for creativity👋
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TSX](https://img.shields.io/badge/TSX-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 
