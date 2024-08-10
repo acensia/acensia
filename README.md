@@ -12,15 +12,15 @@
 Develop for creativity👋
 
 **Experiences**
-- Electrical and Computer Engineering at Seoul National University  
+- **Electrical and Computer Engineering at Seoul National University**  
   *2017.03 ~ 2022.02*
-- Microsoft AI School 2nd period  
+- **Microsoft AI School 2nd period**  
   *2023.04 ~ 2023.11*
-- Kryx. (AI engineer)  
+- **Kryx. (AI engineer)**  
   *2024.04 ~ 2024.07*
 
-### Currently on
-- **Working** : Maum.ai
+### Currently
+- Maum.ai (Full-Stack Developer)
 
 ### What I'm interested in
 
