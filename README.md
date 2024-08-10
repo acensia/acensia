@@ -11,7 +11,6 @@
 ### About Me
 Develop for creativity👋
 
-**Experiences**
 - **Electrical and Computer Engineering at Seoul National University**  
   *2017.03 ~ 2022.02*
 - **Microsoft AI School 2nd period**  
@@ -36,6 +35,9 @@ Develop for creativity👋
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TSX](https://img.shields.io/badge/TSX-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+
 
 ### GitHub repos
 <div style="display:flex">
