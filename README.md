@@ -18,7 +18,7 @@ Pursue self-judging AI
 - Information Retrieving
 - Software Engineering
 
-### Currently
+### Experiences
 
 - **Maum.ai (Full-Stack Developer)**  
   *2024.07 ~ Currently*
