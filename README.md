@@ -1,29 +1,7 @@
-<!--
-<div style="position: relative; text-align: center; color: black; font-weight: bold;">
-  <img src="sky_moon.jpg" alt="Background Image" style="opacity: 0.6; width: 100%; position: relative;"/>
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 100;">
-    LearnWave
-  </div>
-</div>
-![Profile Picture](sky_moon.jpg)
--->
-
-### About Me
-Develop for creativity👋  
-Pursue self-judging AI  
-
-**What I'm interested in**
-- Language Model
-- Prompt Engineering
-- Information Retrieving
-- Software Engineering
-
 ### Experiences
 
-- **Maum.ai (Full-Stack Developer)**  
-  *2024.07 ~ Currently*
-- **Kryx. (AI engineer)**  
-  *2024.04 ~ 2024.07*
+- **Maum.ai (Full-Stack Developer, Software Engineer)**  
+  *2024.07 ~ Present*
 - **Microsoft AI School 2nd period**  
   *2023.04 ~ 2023.11*
 - **Electrical and Computer Engineering at Seoul National University**  
