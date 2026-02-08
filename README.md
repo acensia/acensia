@@ -1,6 +1,6 @@
 ### Experiences
 
-- **Maum.ai (Full-Stack Developer, Software Engineer)**  
+- **Maum.ai (Software Engineer, AI Researcher)**  
   *2024.07 ~ Present*
 - **Microsoft AI School 2nd period**  
   *2023.04 ~ 2023.11*
@@ -16,7 +16,7 @@
 ![TSX](https://img.shields.io/badge/TSX-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-white?logo=Nvidia)
 
 ### GitHub repos
 <div style="display:flex">
