@@ -18,6 +18,7 @@
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-white?logo=Nvidia)
 
+<!--
 ### GitHub repos
 <div style="display:flex">
 <div>
@@ -44,6 +45,7 @@
 </div>
 
 </div>
+-->
 
 
 
@@ -57,7 +59,6 @@
     -->
   </p>
 </div>
-
 
 ### Contact me
 
