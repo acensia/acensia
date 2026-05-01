@@ -2,11 +2,11 @@
 - **SNU PI Lab (Visiting Intern)**  
   *2025.11 ~ Present*
 - **Maum.ai (Software Engineer, AI Researcher)**
-  - AI Researcher
+  - **AI Researcher**
     *2025.08 ~ Present*
-  - Robot Dev Team Leader
+  - **Robot Dev Team Leader**
     *2025.01 ~ 2025.08*
-  - Software Engineer
+  - **Software Engineer**
     *2024.07 ~ Present*
 - **Microsoft AI School 2nd period**  
   *2023.04 ~ 2023.11*
