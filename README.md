@@ -1,16 +1,19 @@
 ### Experiences
-- **SNU PI Lab (Visiting Intern)**  
-  *2025.11 ~ Present*
+- **SNU PI Lab (Combined M's and D)**
+  - **Combined Masterls and Doctoral**
+    *2026.06 ~ Present*
+  - Visiting Intern
+    *2025.11 ~ Present*
 - **Maum.ai (Software Engineer, AI Researcher)**
   - **AI Researcher**
-    *2025.08 ~ Present*
+    *2025.08 ~ 2026.06*
   - **Robot Dev Team Leader**
     *2025.01 ~ 2025.08*
   - **Software Engineer**
-    *2024.07 ~ Present*
+    *2024.07 ~ 2026.06*
 - **Microsoft AI School 2nd period**  
   *2023.04 ~ 2023.11*
-- **Electrical and Computer Engineering at Seoul National University**  
+- **Seoul National University (B.S. in Electrical and Computer Engineering)**  
   *2017.03 ~ 2022.02*
 
 
