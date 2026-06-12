@@ -1,6 +1,6 @@
 ### Experiences
 - **SNU PI Lab**
-  - **Combined Masterls and Doctoral**
+  - **Combined Master's and Doctoral**
     *2026.06 ~ Present*
   - Visiting Intern
     *2025.11 ~ Present*
