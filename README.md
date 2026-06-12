@@ -1,5 +1,5 @@
 ### Experiences
-- **SNU PI Lab (Combined M's and D)**
+- **SNU PI Lab**
   - **Combined Masterls and Doctoral**
     *2026.06 ~ Present*
   - Visiting Intern
