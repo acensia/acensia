@@ -3,7 +3,7 @@
   - **Combined Master's and Doctoral**
     *2026.06 ~ Present*
   - Visiting Intern
-    *2025.11 ~ Present*
+    *2025.11 ~ 2026.08*
 - **Maum.ai (Software Engineer, AI Researcher)**
   - **AI Researcher**
     *2025.08 ~ 2026.06*
@@ -72,25 +72,8 @@
 
 ### Contact me
 
-<span style="color: blue; font-weight: bold; font-family: 'Courier New', monospace;">📮 acensia4290@gmail.com</span>
+<span style="color: blue; font-weight: bold; font-family: 'Courier New', monospace;">📮 acensia@snu.ac.kr </span>
 
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=acensia.acensia)](https://github.com/acensia) [![GitHub followers](https://img.shields.io/github/followers/acensia.svg?style=social&label=Follow)](https://github.com/acensia?tab=followers)
-
-
-<!--
-### Hi there 👋
-**acensia/acensia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
