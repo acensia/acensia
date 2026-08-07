@@ -8,11 +8,11 @@
   - Visiting Intern
     *2025.11 ~ 2026.08*
 - **Maum.ai (Software Engineer, AI Researcher)**
-  - **Robotics&AI Researcher**
+  - Robotics&AI Researcher
     *2025.08 ~ 2026.06*
-  - **Robot Dev Team Leader**
+  - Robot Dev Team Leader
     *2025.01 ~ 2025.08*
-  - **Software Engineer**
+  - Software Engineer
     *2024.07 ~ 2026.06*
 - **Microsoft AI School 2nd period**  
   *2023.04 ~ 2023.11*
