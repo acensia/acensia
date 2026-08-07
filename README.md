@@ -1,11 +1,14 @@
 ### Experiences
+- **Maum.ai WoRV (Forntier Lab)**
+  - **Research Associate**
+    *2026.07 ~ Present*
 - **SNU PI Lab**
   - **Combined Master's and Doctoral**
-    *2026.06 ~ Present*
+    *2026.09 ~ Present*
   - Visiting Intern
     *2025.11 ~ 2026.08*
 - **Maum.ai (Software Engineer, AI Researcher)**
-  - **AI Researcher**
+  - **Robotics&AI Researcher**
     *2025.08 ~ 2026.06*
   - **Robot Dev Team Leader**
     *2025.01 ~ 2025.08*
