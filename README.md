@@ -1,5 +1,5 @@
 ### Experiences
-- **Maum.ai WoRV (Forntier Lab)**
+- **Maum.ai WoRV (Frontier Lab)**
   - **Research Associate**
     *2026.07 ~ Present*
 - **SNU PI Lab**
